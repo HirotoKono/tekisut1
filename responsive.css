@@ -1,0 +1,78 @@
+@media screen and (max-width:768px) {
+	header {
+        
+        height: 50px;
+        width: 100%;
+        background-color: #ff9a4b;
+            }
+
+	main{
+		display: block;
+		margin: 50px;
+		width: 100%;
+		margin-bottom: 50px;
+
+	}
+
+	.step-box1{ 
+        width: 90%;
+        margin-bottom: 20px;
+        padding: 10px;
+        position: relative;
+        background-color: #eee;
+
+
+        }
+
+	.step-box2{ 
+        width: 90%;
+        margin-bottom: 20px;
+        padding: 10px;
+        position: relative;
+        background-color: #eee;
+        
+        }
+        
+
+	.step-box3{ 
+        width: 90%;
+        margin-bottom: 20px;
+        padding: 10px;
+        position: relative;
+        background-color: #eee;
+        }
+    .img1{
+	    height: 150px;
+	    background-image: url(img/flow01.png);
+	    background-position: bottom;
+	    background-size: cover;
+        }
+    .img1{
+	    height: 150px;
+	    background-image: url(img/flow01.png);
+	    background-position: bottom;
+	    background-size: cover;
+	    }
+	.img1{
+	    height: 150px;
+	    background-image: url(img/flow01.png);
+	    background-position: bottom;
+	    background-size: cover;
+	    }
+	.name {
+        padding: 3px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #ff9a4b;
+        color: #fff;
+        }
+    .title{
+	    height: 50px;
+        background-color: 000;
+        }
+    footer{
+	    height: 50px;
+	    background-color: #aaa;
+        }
+    }
